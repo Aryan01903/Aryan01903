@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aryan+Kumar+Shrivastav;Full+Stack+Developer+(MERN+%2F+Next.js+%2F+TypeScript);Building+SaaS+Products+%26+Solving+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Aryan+Kumar+Shrivastav;Full+Stack+Developer+(MERN+%2F+Next.js+%2F+TypeScript);Building+SaaS+Products+%26+Solving+Problems" alt="Typing SVG" />
 <img src="https://komarev.com/ghpvc/?username=Aryan01903&label=Profile+Views&color=00F7FF&style=flat-square" alt="Profile views"/>
 </div>
 
