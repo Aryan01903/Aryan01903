@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aryan;Full+Stack+Developer+(MERN+%2F+Next.js);Building+SaaS+Products+%26+Solving+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aryan+Kumar+Shrivastav;Full+Stack+Developer+(MERN+%2F+Next.js+%2F+TypeScript+%2F+Tanstack Query);Building+SaaS+Products+%26+Solving+Problems" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Aryan01903&label=Profile+Views&color=00F7FF&style=flat-square" alt="Profile views"/>
 
@@ -23,16 +23,16 @@ education:
   duration: 2022 - 2026
 
 experience:
-  - title: MERN Fullstack Developer
-    company: RedPhantom Tech Novelty Pvt Ltd
   - title: Full Stack Developer
+    company: RedPhantom Tech Novelty Pvt Ltd
+  - title: MERN Stack Developer
     company: Arramton Infotech
-  - title: Intern
+  - title: MERN Stack Intern
     company: Neogencode Technologies
 
 skills:
   languages: [JavaScript, TypeScript, Java]
-  frontend: [React, Next.js, Redux, Tailwind CSS]
+  frontend: [React, Next.js, Redux, Tailwind CSS, Tanstack Query]
   backend: [Node.js, Express, NestJS]
   databases: [MongoDB, PostgreSQL, Prisma ORM]
   cloud_devops: [AWS, Docker]
@@ -123,9 +123,7 @@ GenAI book recommender using OpenAI/Gemini SDK
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-kumar-shrivastav-638831268/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:main.aryanshrivastav2003@gmail.com)
 
 </div>
