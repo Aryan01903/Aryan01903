@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aryan+Kumar+Shrivastav;Full+Stack+Developer+(MERN+%2F+Next.js+%2F+TypeScript+%2F+Tanstack Query);Building+SaaS+Products+%26+Solving+Problems" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aryan+Kumar+Shrivastav;Full+Stack+Developer+(MERN+%2F+Next.js+%2F+TypeScript);Building+SaaS+Products+%26+Solving+Problems" alt="Typing SVG" />
 <img src="https://komarev.com/ghpvc/?username=Aryan01903&label=Profile+Views&color=00F7FF&style=flat-square" alt="Profile views"/>
-
 </div>
 
 <br/>
@@ -21,7 +17,6 @@ education:
   degree: B.Tech, Electronics & Communication Engineering
   college: ADGIPS (GGSIPU), Delhi
   duration: 2022 - 2026
-
 experience:
   - title: Full Stack Developer
     company: RedPhantom Tech Novelty Pvt Ltd
@@ -29,7 +24,6 @@ experience:
     company: Arramton Infotech
   - title: MERN Stack Intern
     company: Neogencode Technologies
-
 skills:
   languages: [JavaScript, TypeScript, Java]
   frontend: [React, Next.js, Redux, Tailwind CSS, Tanstack Query]
@@ -45,23 +39,17 @@ skills:
 <table>
 <tr>
 <td width="33%" valign="top">
-
-**🔗 InteractHub**
+<strong>🔗 InteractHub</strong><br/>
 Multi-tenant SaaS collab platform — WebRTC + Socket.IO
-
 </td>
 <td width="33%" valign="top">
-
-**⚡ SurgeProbe**
-API load-testing platform with AI-driven insights
-<br/>[🔗 Live](https://surgeprobe.vercel.app)
-
+<strong>⚡ SurgeProbe</strong><br/>
+API load-testing platform with AI-driven insights<br/>
+<a href="https://surgeprobe.vercel.app">🔗 Live</a>
 </td>
 <td width="33%" valign="top">
-
-**📚 ShelfMate**
+<strong>📚 ShelfMate</strong><br/>
 GenAI book recommender using OpenAI/Gemini SDK
-
 </td>
 </tr>
 </table>
@@ -91,12 +79,9 @@ GenAI book recommender using OpenAI/Gemini SDK
 ## 📈 GitHub Stats
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan01903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan01903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan01903&theme=tokyonight&hide_border=true&background=0d1117"/>
-
 </div>
 
 <br/>
@@ -113,8 +98,6 @@ GenAI book recommender using OpenAI/Gemini SDK
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Aryan01903/Aryan01903/output/github-contribution-grid-snake.svg"/>
-
-*(auto-generates once you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to this repo — see note below)*
 </div>
 
 <br/>
@@ -123,7 +106,7 @@ GenAI book recommender using OpenAI/Gemini SDK
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-kumar-shrivastav-638831268/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-kumar-shrivastav-638831268/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:main.aryanshrivastav2003@gmail.com)
 
 </div>
