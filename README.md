@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Aryan%20Kumar%20Shrivastav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2F%20Next.js%20%2F%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Aryan%20Kumar%20Shrivastav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20MERN%20%2F%20Next.js%20%2F%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+SaaS+Products+%26+Solving+Problems;EdTech+%26+GovTech+at+Scale;Currently+Exploring+System+Design+%2B+DSA" alt="Typing SVG" />
 
@@ -97,18 +97,34 @@ experience:
 
 ## 🧱 Things I've Built
 
-<div align="center">
+<table width="100%"> <tr> <td width="33%" valign="top">
+🔗 InteractHub
 
-### ⚡ SurgeProbe
+Multi-tenant social-verse platform with live video conferencing built on WebRTC & WebSockets.
+
+Next.js WebRTC WebSockets
+
+🔗 View Live →
+
+</td> <td width="33%" valign="top">
+⚡ SurgeProbe
+
 API load-testing platform delivering AI-driven performance insights and bottleneck detection.
 
-`Node.js` `AI Insights`
+Node.js AI Insights
 
-**[🔗 View Live →](https://surgeprobe.vercel.app)**
+🔗 View Live →
 
-</div>
+</td> <td width="33%" valign="top">
+📚 ShelfMate
 
-<br/>
+Personalised AI book recommendation platform — browse books, rate them, and get recommendations tuned to your ratings.
+
+GenAI GoogleGenerative SDK Gemini
+
+🔗 View Live →
+
+</td> </tr> </table> <br/>
 
 ## 📈 GitHub Stats
 
